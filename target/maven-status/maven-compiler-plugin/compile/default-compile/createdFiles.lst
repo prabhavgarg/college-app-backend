@@ -1,0 +1,9 @@
+com/college/college/controller/ApplicationFormController.class
+com/college/college/model/ApplicationFormRequestModel.class
+com/college/college/service/ApplicationFormService.class
+com/college/college/model/UserDetails.class
+com/college/college/service/UserDetailsService.class
+com/college/college/service/impl/UserDetailsServiceImpl.class
+com/college/college/CollegeApplication.class
+com/college/college/controller/UserDetailsController.class
+com/college/college/service/impl/ApplicationFormServiceImpl.class
