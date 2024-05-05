@@ -1,4 +1,4 @@
-# college-app-backend
+# college-app-backend (handles the backend part of College Application developed in Springboot)
 ![1](https://github.com/prabhavgarg/college-app-backend/assets/21111506/20ccfe2d-39c8-44ea-8567-e10f9c52126d)
 ![2](https://github.com/prabhavgarg/college-app-backend/assets/21111506/268774e2-6390-4cee-b4c9-9365486268fc)
 ![3](https://github.com/prabhavgarg/college-app-backend/assets/21111506/35805e5f-cffa-4101-994f-2d86fc1bb411)
